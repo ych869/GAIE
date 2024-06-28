@@ -1,0 +1,1 @@
+The code is for Wenkang Su, Jiangqun Ni, Xianglei Hu, and Bin Li. Efficient audio steganography using generalized audio intrinsic energy with micro-amplitude modification suppression. TIFS. DOI:DOI: 10.1109/TIFS.2024.3417268  https://ieeexplore.ieee.org/document/10570225
